@@ -1,4 +1,4 @@
-- Hi, I’m @mEchmackErel aka Sophia!
+- Hi, I’m @mEchmackErel!
 - I’m interested in learning Python so I can finish my personal video game.
 - I’m currently learning Python (the redundancy is funny), but I know the basics of HTML.
 - I’m looking to collaborate on simple video games.
